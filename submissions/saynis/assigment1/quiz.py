@@ -40,4 +40,4 @@ else:
 
 
 #3. Final Score
-print(name + " , your final score is: " + str(score) + " out of 3.")
+print(name + " , your final score is : " + str(score) + " out of 3.")
