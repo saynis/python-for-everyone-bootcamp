@@ -21,7 +21,7 @@ print("What is the output of 2 + 3 * 4?")
 Ans2= input(" your answer:")
 if Ans2 == "14":
     score += 1
-    print(" your are Correct!")
+    print(" your are correct!")
 else:
     print("Wrong! The correct answer is 14.")  
 
